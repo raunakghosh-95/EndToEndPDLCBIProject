@@ -1,0 +1,58 @@
+# BRD Generator Requirements
+# Install with: pip install -r requirements.txt
+transformers
+torch
+sentence-transformers
+faiss-cpu
+python-docx
+python-dateutil
+# Core dependencies
+pandas>=1.5.0
+python-docx>=0.8.11
+openpyxl>=3.0.10
+
+# Environment management
+python-dotenv>=1.0.0
+
+# AI API clients
+openai>=1.0.0
+requests>=2.28.0
+
+# Utility libraries
+pathlib2>=2.3.7; python_version < '3.4'
+
+# Optional: For enhanced Excel support
+xlrd>=2.0.1
+
+# Development dependencies (optional)
+pytest>=7.0.0
+black>=22.0.0
+flake8>=5.0.0
+
+# Security
+certifi>=2022.12.7
+python-docx
+pandas
+python-dotenv
+openai
+requests
+pdfminer.six
+spacy
+
+streamlit
+langchain
+langchain-community
+langchain-openai
+openai
+python-dotenv
+pandas
+plotly
+matplotlib
+numpy
+nltk
+fuzzywuzzy
+spacy
+wikipedia
+wikipedia-api
+scikit-learn
+
