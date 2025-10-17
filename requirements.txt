@@ -55,4 +55,5 @@ spacy
 wikipedia
 wikipedia-api
 scikit-learn
+streamlit-mermaid>=0.1.0
 
