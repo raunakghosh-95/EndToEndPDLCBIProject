@@ -20,6 +20,8 @@ import base64
 import zlib
 import requests
 import streamlit_mermaid as stmd
+import matplotlib
+matplotlib.use('Agg')
 
 load_dotenv()
 
